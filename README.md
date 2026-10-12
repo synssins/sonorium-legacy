@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> **This repository is retired.** Sonorium has moved to its own repository at the same address: **[synssins/sonorium](https://github.com/synssins/sonorium)**. This copy is the old fork of Amniotic and is kept read-only for history. It gets no updates, and its issues have moved to the new repository.
+
 # Sonorium
 
 ![Sonorium](logo.png)
